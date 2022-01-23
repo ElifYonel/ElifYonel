@@ -8,7 +8,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on business intelligence.
 - 🌱 I’m currently learning SQL and Tableau. 
 - 📫 How to reach me: 
--[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ElifYonel) 
--[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/elifyonell/) 
--[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://elifyonel.wordpress.com)
--:office: [LinkedIn](https://www.linkedin.com/in/elifyonel/)
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/ElifYonel/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/elifyonel//npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://elifyonell/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
