@@ -1,11 +1,11 @@
-### Here is what I'm working on 👋
+### Hello, here is what I'm working on 👋
 
 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on business intelligence.
-- 🌱 I’m currently learning SQL and Tableau. 
+- 🌱 I’m currently learning SQL, Power BI and Tableau. 
 - ⚡ I reach people with my blog site: https://elifyonel.wordpress.com
 - 📫 How to reach me : 
 
