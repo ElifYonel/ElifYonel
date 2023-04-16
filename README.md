@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on business intelligence.
 - 🌱 I’m currently learning SQL, Power BI and Tableau. 
-- ⚡ I reach people with my blog site: https://elifyonel.wordpress.com
+- ⚡ I reach people with my blog site: https://elifyonel.com
 - 📫 How to reach me : 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ElifYonel) 
